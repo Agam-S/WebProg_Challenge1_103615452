@@ -56,3 +56,14 @@ width:fit-content;
 .lorem {
 margin-top:0px;
 }
+
+.third {
+padding-left: 25px;
+padding-bottom: 10px;
+padding-top: 20px;
+background-color:#42A5F5;
+color: white;
+margin-left: -10px;
+padding-bottom: 30px;
+font-family:Arial, Helvetica, sans-serif;
+    }
